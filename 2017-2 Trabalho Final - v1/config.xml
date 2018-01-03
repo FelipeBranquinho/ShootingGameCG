@@ -1,0 +1,6 @@
+<aplicacao>
+	<arquivoDaArena nome="arena" tipo="svg" caminho="/home/babobo/Documentos/8 Periodo/cg/2017-2 Trabalho Final - v1/"></arquivoDaArena>
+	<jogador velTiro="0.2" vel="0.1"></jogador>
+	<inimigo freqTiro="0.2" vel="0.1" velTiro="0.2"></inimigo>
+	<obstaculo altura="80"></obstaculo>
+</aplicacao>

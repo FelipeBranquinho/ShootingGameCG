@@ -1,0 +1,10 @@
+g++ -c -Wall -Wno-unknown-pragmas -Wno-format -O3   trabalho.cpp -o trabalho.o
+g++ -c -Wall -Wno-unknown-pragmas -Wno-format -O3   arena.cpp -o arena.o
+g++ -c -Wall -Wno-unknown-pragmas -Wno-format -O3   circulo.cpp -o circulo.o
+g++ -c -Wall -Wno-unknown-pragmas -Wno-format -O3   tiro.cpp -o tiro.o
+g++ -c -Wall -Wno-unknown-pragmas -Wno-format -O3   jogador.cpp -o jogador.o
+g++ -c -Wall -Wno-unknown-pragmas -Wno-format -O3   tinyxml.cpp -o tinyxml.o
+g++ -c -Wall -Wno-unknown-pragmas -Wno-format -O3   tinyxmlerror.cpp -o tinyxmlerror.o
+g++ -c -Wall -Wno-unknown-pragmas -Wno-format -O3   tinyxmlparser.cpp -o tinyxmlparser.o
+g++ -c -Wall -Wno-unknown-pragmas -Wno-format -O3   tinystr.cpp -o tinystr.o
+g++ -o trabalhocg  trabalho.o arena.o circulo.o tiro.o jogador.o tinyxml.o tinyxmlerror.o tinyxmlparser.o tinystr.o -lGL -lglut -lGLU 

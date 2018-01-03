@@ -1,0 +1,26 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 2
+
+newmtl Hair
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd d:/CG/MMD_Overwatch_Soldier76/MMD Overwatch Soldier76/s76_hair.tga
+map_d d:/CG/MMD_Overwatch_Soldier76/MMD Overwatch Soldier76/s76_hair.tga
+
+newmtl Soldier
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd d:/CG/MMD_Overwatch_Soldier76/MMD Overwatch Soldier76/faceoff2.tga
+map_d d:/CG/MMD_Overwatch_Soldier76/MMD Overwatch Soldier76/faceoff2.tga
